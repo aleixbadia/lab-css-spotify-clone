@@ -85,6 +85,10 @@ nav img {
     margin: 0px 30px;
 }
 
+nav a {
+    color: #1A1A1A;
+}
+
 header {
     background-image: url("../images/landing.jpg");
     background-size: cover;
